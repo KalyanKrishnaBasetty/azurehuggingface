@@ -1,0 +1,32 @@
+# Streamlit UI
+streamlit==1.29.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Azure Blob Storage
+azure-storage-blob==12.24.0
+
+# LangChain and community modules
+langchain==0.1.0
+langchain-community==0.1.0
+langchain-text-splitters==0.1.0
+
+# Document loaders
+pypdf==3.16.0
+python-docx==0.8.11
+
+# Sentence embeddings
+sentence-transformers==2.2.2
+torch==2.2.0
+transformers==4.34.0
+
+# FAISS for vector store
+faiss-cpu==1.7.4
+
+# Speech recognition
+SpeechRecognition==3.11.0
+pyaudio==0.2.13
+
+# Utilities
+numpy==1.26.0
